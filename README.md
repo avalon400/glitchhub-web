@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @glitchhub-web
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning programmming
-- 💞️ I’m looking to collaborate on discord bots and servers
+- 👋 Hi, I’m @glitchhub-web or Ben!
+- 👀 I’m interested in coding!
+- 🌱 I’m currently learning programmming!
+- 💞️ I’m looking to collaborate on discord bots and servers!
 - 📫 Reach me thru discord, my user is BBeni#3110
 
 <!---
